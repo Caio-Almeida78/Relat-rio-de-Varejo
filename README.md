@@ -17,3 +17,5 @@ Analisar os sistemas de automação comercial utilizados pelo estabelecimento.
 - Teclado personalizado para o caixa
 - Máquina de cartão com geração de QR Code
 - Emissão de cupom fiscal
+___________________________________________________________
+- O relatório completo está disponível no arquivo RELATÓRIO-ACBR (1).pdf
